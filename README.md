@@ -1,6 +1,5 @@
-# Trabalho-P1---Estrutura-de-Dados---Samuel-Medeiros
+# 📚 Trabalho P1 – Estrutura de Dados - Samuel-Medeiros
 
-# 📚 Trabalho P1 – Estrutura de Dados  
 ## Sistema de Gerenciamento de Fila de Atendimento
 
 ---
