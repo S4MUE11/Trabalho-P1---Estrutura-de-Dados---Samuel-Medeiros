@@ -114,7 +114,7 @@ Deve conter:
 - Rafael (Nim): https://github.com/usuario/edc-p1-2026-projeto-nim  
 - Alberto (Julia): https://github.com/usuario/edc-p1-2026-projeto-julia  
 - Caio (Lean): https://github.com/usuario/edc-p1-2026-projeto-lean  
-
+```
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 📋 Sistema de Fila - Trabalho 1 (Rust) 🚀
