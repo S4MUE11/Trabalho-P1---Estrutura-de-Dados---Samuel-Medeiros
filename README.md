@@ -209,6 +209,12 @@ Antes da versão final, o projeto passou por um processo estruturado de desenvol
 
 ---
 
+## Video do Desenvolvimento
+
+https://youtu.be/acEX4n2vHFc
+
+---
+
 ## ☁️ Ferramentas e Tecnologias de Apoio
 
 Durante o desenvolvimento, foram utilizadas ferramentas de apoio para acelerar o aprendizado e validação de ideias:
