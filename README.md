@@ -191,3 +191,32 @@ Ao iniciar o programa, você verá um menu interativo com as seguintes opções:
 - `src/main.rs`: Código fonte principal com a lógica da Fila.
 - `Cargo.toml`: Arquivo de configuração do projeto e dependências.
 - `README.md`: Este guia de instruções.
+
+- ---
+
+## ✅ Validação, Testes e Ferramentas Utilizadas
+
+Antes da versão final, o projeto passou por um processo estruturado de desenvolvimento:
+
+- Foi criada uma **primeira versão para testes**, com foco em validar a lógica da lista encadeada e o funcionamento das operações da fila  
+- Após validação completa, o código foi **reescrito (refatorado) em um novo projeto**, aplicando melhorias de organização, legibilidade e boas práticas  
+
+### 🧪 Testes realizados
+- Inserção e remoção de elementos na fila  
+- Busca por elementos  
+- Consistência da estrutura encadeada  
+- Contagem correta dos nós  
+
+---
+
+## ☁️ Ferramentas e Tecnologias de Apoio
+
+Durante o desenvolvimento, foram utilizadas ferramentas de apoio para acelerar o aprendizado e validação de ideias:
+
+- ☁️ Ambiente em nuvem para execução e testes  
+- 🤖 ChatGPT – suporte na compreensão de conceitos e revisão de lógica  
+- 🤖 Gemini – apoio complementar na implementação e validação  
+
+> ⚠️ Importante: Todo o código final foi **escrito manualmente**, sem cópia direta de soluções prontas, garantindo o entendimento completo da implementação.
+
+---
